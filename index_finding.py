@@ -17,4 +17,3 @@ while index < n:
 
 if index == n:
     print('there is no {} in numbers you gave us'.format(A))
-
